@@ -1,0 +1,5 @@
+.venv/
+mlruns/
+model_info.txt
+__pycache__/
+*.pyc
