@@ -7,7 +7,8 @@ mlflow.set_tracking_uri(tracking_uri)
 mlflow.set_experiment("A5_MLOps_Pipeline")
 
 with mlflow.start_run() as run:
-    accuracy = random.uniform(0.80, 0.95)
+    # accuracy = random.uniform(0.80, 0.95)
+    accuracy = 0.80
 
     mlflow.log_metric("accuracy", accuracy)
 
