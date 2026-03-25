@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 mlflow.db
 mlflow_artifacts/
+/cats_dogs_small.zip
