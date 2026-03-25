@@ -1,0 +1,5 @@
+outs:
+- md5: edeb8531bb9fc56513b3db3286ef1d40
+  size: 67566406
+  hash: md5
+  path: cats_dogs_small.zip

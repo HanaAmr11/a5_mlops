@@ -3,3 +3,4 @@ mlruns/
 model_info.txt
 __pycache__/
 *.pyc
+/cats_dogs_small.zip
